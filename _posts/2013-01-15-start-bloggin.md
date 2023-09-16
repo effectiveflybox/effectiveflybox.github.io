@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Here is the title of the post
+title: To Tie a Game Changer 1
 category: blog
 tags: [tags for the post, is here]  
-summary: Here is a summary of the post
+summary: Attempting to tie a game changer for trout.
 image: /images/blog/blogging-again.png
 ---
 
