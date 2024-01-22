@@ -2,7 +2,7 @@
 layout: blog
 title: Micro Bugger Changer- First Tie Notes
 category: blog
-tags: [material, micro bugger changer]  
+tags: [attempt, micro bugger changer]  
 summary: Tying Chocklett's Bugger Changer for the first time
 image: /images/blog/brookCropHeader.jpg
 ---

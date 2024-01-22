@@ -2,7 +2,7 @@
 layout: blog
 title: Hen Hackle for Micro Bugger Changers
 category: blog
-tags: [technique, micro bugger changer]  
+tags: [material, micro bugger changer]  
 summary: Choosing hen hackle to create a tapered Micro Bugger Changer Body
 image: /images/blog/brookCropHeader.jpg
 ---
