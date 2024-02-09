@@ -3,7 +3,7 @@ layout: blog
 title: Three Whip Perdigon Step 02
 category: blog
 tags: [process, three whip perdigon]  
-summary: Three Whip Perdigon- Step 2
+summary: Three Whip Perdigon- Shape
 image: /images/blog/brookCropHeader.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: blog
 title: Three Whip Perdigon Step 04
 category: blog
 tags: [process, three whip perdigon]  
-summary: Three Whip Perdigon- Step 4
+summary: Three Whip Perdigon- Hotspot and Coat
 image: /images/blog/brookCropHeader.jpg
 ---
 
