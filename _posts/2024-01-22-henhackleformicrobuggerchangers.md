@@ -6,7 +6,7 @@ tags: [material, micro bugger changer]
 summary: Choosing hen hackle to create a tapered Micro Bugger Changer Body
 image: /images/blog/brookCropHeader.jpg
 ---
-* Choose 5 feather pairs, where the feathers roughly match each other and are roughly successfully bigger.
+* Choose 5 feather pairs, where the feathers roughly match each other and are successfully bigger.
 * Smaller feathers come from the bottom of the saddle and get bigger as you move up.
 * This isn't finesse work, you should be selecting five pairs of feathers in a couple of minutes at best.
 * I use a piece of cardboard and a strip of painters tape to keep them paired up and not flying about.
