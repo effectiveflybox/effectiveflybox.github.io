@@ -1,6 +1,6 @@
 ---
 title: Effective Flybox Patterns List
-date: 2024-02-26 14:29:27.285000000 Z
+date: 2024-02-26 09:29:27 -05:00
 categories:
 - blog
 tags:
