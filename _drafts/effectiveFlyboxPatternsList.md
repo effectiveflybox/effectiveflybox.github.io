@@ -1,10 +1,13 @@
 ---
-layout: blog
 title: Effective Flybox Patterns List
-category: blog
-tags: [concept]  
+date: 2024-02-26 14:29:27.285000000 Z
+categories:
+- blog
+tags:
+- concept
+layout: blog
 summary: The twelve patterns that make up my effective fly box.
-image: /images/blog/blogging-again.png
+image: "/images/blog/blogging-again.png"
 ---
 
 # The Patterns

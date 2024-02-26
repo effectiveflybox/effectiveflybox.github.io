@@ -1,11 +1,16 @@
 ---
-layout: blog
 title: Three Whip Perdigon Step 01
-category: blog
-tags: [process, three whip perdigon]  
+date: 2024-02-09 00:00:00 Z
+categories:
+- blog
+tags:
+- process
+- three whip perdigon
+layout: blog
 summary: Three Whip Perdigon- Recipe
-image: /images/blog/brookCropHeader.jpg
+image: "/images/blog/brookCropHeader.jpg"
 ---
+
 * Firehole 516 #14 or #16
 * Veevus Body Quill
 * Firehole Slotted Tungsten Bead 3.3mm or 3.0mm

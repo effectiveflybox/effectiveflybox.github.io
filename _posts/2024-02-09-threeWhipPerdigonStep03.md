@@ -1,10 +1,14 @@
 ---
-layout: blog
 title: Three Whip Perdigon Step 03
-category: blog
-tags: [process, three whip perdigon]  
+date: 2024-02-09 00:00:00 Z
+categories:
+- blog
+tags:
+- process
+- three whip perdigon
+layout: blog
 summary: Three Whip Perdigon- Color
-image: /images/blog/brookCropHeader.jpg
+image: "/images/blog/brookCropHeader.jpg"
 ---
 
 Spool up the body quill and cover the thread.  Two turn whip finish (second).  No more than two turns or things go sideways.

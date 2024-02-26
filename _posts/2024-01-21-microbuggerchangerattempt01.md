@@ -1,11 +1,16 @@
 ---
-layout: blog
 title: Micro Bugger Changer- First Tie Notes
-category: blog
-tags: [attempt, micro bugger changer]  
+date: 2024-01-21 00:00:00 Z
+categories:
+- blog
+tags:
+- attempt
+- micro bugger changer
+layout: blog
 summary: Tying Chocklett's Bugger Changer for the first time
-image: /images/blog/brookCropHeader.jpg
+image: "/images/blog/brookCropHeader.jpg"
 ---
+
 * Used a #6 Firehole #714 and was glad right away that I bought a size smaller for the next attempt.
 * hook + 3x 8mm shank + 15mm shank
 * Have some Spirit River 7/32 Real Eyes and can't find the same anywhere.  Bought 4mm Flymen Living Eyes Fire to glue into them.
