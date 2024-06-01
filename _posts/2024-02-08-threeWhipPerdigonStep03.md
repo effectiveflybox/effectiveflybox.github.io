@@ -1,6 +1,6 @@
 ---
 title: Three Whip Perdigon Step 03
-date: 2024-02-09 00:00:00 Z
+date: 2024-02-08 19:00:00 -05:00
 categories:
 - blog
 tags:

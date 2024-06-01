@@ -1,6 +1,6 @@
 ---
 title: Micro Bugger Changer- First Tie Notes
-date: 2024-01-21 00:00:00 Z
+date: 2024-01-20 19:00:00 -05:00
 categories:
 - blog
 tags:

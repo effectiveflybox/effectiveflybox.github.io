@@ -1,6 +1,6 @@
 ---
 title: To Tie a Game Changer 1
-date: 2023-06-01 00:00:00 Z
+date: 2023-05-31 20:00:00 -04:00
 categories:
 - blog
 tags:
