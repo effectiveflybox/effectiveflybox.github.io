@@ -7,7 +7,7 @@ tags:
 - process
 - three whip perdigon
 summary: Three Whip Perdigon- Color
-image: "/images/blog/spottedHeader.jpg"
+image: "/images/blog/spottedheader.jpg"
 layout: blog
 ---
 
