@@ -6,9 +6,9 @@ categories:
 tags:
 - process
 - three whip perdigon
-layout: blog
 summary: Three Whip Perdigon- Shape
-image: "/images/blog/brookCropHeader.jpg"
+image: "/images/blog/rainbowHeader.jpg"
+layout: blog
 ---
 
 Tie in three or four CDL fibers about a shank length and wrap forward.  Create a tapered body with the thread.  Whip finish (first).
