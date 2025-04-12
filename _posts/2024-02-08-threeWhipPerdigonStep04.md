@@ -6,9 +6,9 @@ categories:
 tags:
 - process
 - three whip perdigon
-layout: blog
 summary: Three Whip Perdigon- Hotspot and Coat
-image: "/images/blog/brookCropHeader.jpg"
+image: "/images/blog/brownHeader.jpg"
+layout: blog
 ---
 
 Tie a thin thread hotspot right behind the bead and whip finish (third).  Coat with a UV resin like Loon UV Clear Fly Finish - Flow.
