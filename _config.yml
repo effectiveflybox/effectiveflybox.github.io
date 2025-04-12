@@ -1,15 +1,25 @@
-permalink: /:categories/:title.html
-url: "https://effectiveflybox.github.io"
-full_name: "Greg Monigold"
-first_name: "Greg"
-last_name: "Monigold"
-blog_title: "The Effective Flybox"
-author_img_name_path: "/images/users/user.jpg"
-disqus_shortname:
-copyright_year: "2019"
-google_analytics_code: ""
-aboutme: ""
-twitter:
-github:
-facebook:
-linkined_url: ""
+---
+title: Effectiveflybox.Github.Io
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+permalink: "/:categories/:title.html"
+url: https://effectiveflybox.github.io
+full_name: Greg Monigold
+first_name: Greg
+last_name: Monigold
+blog_title: The Effective Flybox
+author_img_name_path: "/images/users/flyDeadlyAsABomberMicro.jpg"
+disqus_shortname: 
+copyright_year: 2019
+google_analytics_code: 
+aboutme: 
+twitter: 
+github: 
+facebook: 
+linkined_url: 
