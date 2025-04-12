@@ -6,9 +6,9 @@ categories:
 tags:
 - process
 - three whip perdigon
-layout: blog
 summary: Three Whip Perdigon- Recipe
-image: "/images/blog/brookCropHeader.jpg"
+image: "/images/blog/hybridHeader.jpg"
+layout: blog
 ---
 
 * Firehole 516 #14 or #16
