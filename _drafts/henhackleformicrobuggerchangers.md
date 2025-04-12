@@ -6,9 +6,9 @@ categories:
 tags:
 - material
 - micro bugger changer
-layout: blog
 summary: Choosing hen hackle to create a tapered Micro Bugger Changer Body
 image: "/images/blog/brookCropHeader.jpg"
+layout: blog
 ---
 
 * Choose 5 feather pairs, where the feathers roughly match each other and are successfully bigger.
