@@ -10,3 +10,5 @@ layout: blog
 
 John Barr pattern
 ##updated##
+
+Some more stuff
