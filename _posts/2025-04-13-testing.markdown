@@ -3,6 +3,7 @@ title: Testing
 date: 2025-04-13 09:59:00 -04:00
 categories:
 - blog
+layout: blog
 ---
 
 new stuff
