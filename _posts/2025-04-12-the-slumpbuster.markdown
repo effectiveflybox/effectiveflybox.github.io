@@ -5,5 +5,6 @@ categories:
 - EFB Pattern
 summary: Choosing a hair/fur streamer
 image: "/uploads/brownHeader.jpg"
+layout: blog
 ---
 
