@@ -3,7 +3,7 @@ title: What is effective tying?
 date: 2025-09-24 11:42:00 -04:00
 categories:
 - blog
-image: 'image: /images/blog/brookHeader.jpg'
+image: "/images/blog/brookHeader.jpg"
 summary: What is effective fly tying?
 layout: blog
 ---
