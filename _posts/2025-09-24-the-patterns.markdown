@@ -3,6 +3,9 @@ title: The Patterns
 date: 2025-09-24 13:29:00 -04:00
 categories:
 - blog
+tags:
+- Effective Tying
+image: "/images/blog/brownHeader.jpg"
 layout: blog
 ---
 
