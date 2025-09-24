@@ -1,12 +1,12 @@
 ---
 title: Effective Flybox Patterns List
-date: 2024-02-26 09:29:00 -05:00
+date: 2025-09-24
 categories:
 - blog
 tags:
-- concept
-summary: The twelve patterns that make up my effective fly box.
-image: "/images/blog/blogging-again.png"
+- Effective Tying
+summary: "What is effective tying?"
+image: "/images/blog/brookHeader.jpg"
 layout: blog
 ---
 
