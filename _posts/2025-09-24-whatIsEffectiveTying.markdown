@@ -1,8 +1,6 @@
 ---
 title: What is effective tying?
 date: 2025-09-24 11:42:00 -04:00
-categories:
-- Effective Tying
 ---
 
 There's no better feeling than fooling a fish with a fly, except when you fool a fish with a fly that you tied.  Actually, that's a lie.  Fighting the fish you fooled with a fly you tied on a bamboo fly rod you built is the best feeling.
