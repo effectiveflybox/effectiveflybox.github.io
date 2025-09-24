@@ -7,6 +7,7 @@ tags:
 - Material Issue
 summary: What do I need to tie the Effective Fly Box?
 image: "/images/blog/brownHeader.jpg"
+layout: blog
 ---
 
 Materials List
