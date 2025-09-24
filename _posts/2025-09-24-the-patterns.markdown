@@ -4,7 +4,7 @@ date: 2025-09-24 13:29:00 -04:00
 categories:
 - blog
 tags:
-- Effective Tying
+- Tying the Pattern
 image: "/images/blog/brownHeader.jpg"
 layout: blog
 ---
