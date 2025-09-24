@@ -6,7 +6,7 @@ categories:
 tags:
 - Effective Tying
 image: "/images/blog/brookHeader.jpg"
-summary: What is effective fly tying?
+summary: Why you should choose to tie, and tie effectively.
 layout: blog
 ---
 
