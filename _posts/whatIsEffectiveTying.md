@@ -7,7 +7,7 @@ tags:
 - Effective Tying
 summary: What is effective tying?
 image: "/images/blog/brookHeader.jpg"
-layout: blog
+layout: posts
 ---
 
 # What is effective tying?
