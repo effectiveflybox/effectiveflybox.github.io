@@ -2,7 +2,7 @@
 title: What is effective tying?
 date: 2025-09-24 11:42:00 -04:00
 categories:
-- post
+- blog
 layout: blog
 ---
 
