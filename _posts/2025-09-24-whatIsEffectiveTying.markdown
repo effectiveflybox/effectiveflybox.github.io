@@ -10,7 +10,7 @@ layout: blog
 
 There's no better feeling than fooling a fish with a fly, except when you fool a fish with a fly that you tied.  Actually, that's a lie.  Fighting the fish you fooled with a fly you tied on a bamboo fly rod you built is the best feeling.
 
-But, I built one fly rod and because I don't throw half a dozen of them into the trees every time I fish we're going to be talking about fly tying instead of rod building.
+I built one fly rod and because I don't throw half a dozen of them into the trees every time I fish we're going to be talking about fly tying instead of rod building.
 
 There's an important distinction to be made here though, fooling the fish with the fly you tied is the best thing, not tying the fly that fools the fish.  Tying flies is a means to an end so we're (you and I) going to talk here about tying effectively.
 
