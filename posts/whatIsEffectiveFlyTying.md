@@ -7,7 +7,7 @@ tags:
 - Effective Tying
 summary: What is effective fly tying?
 image: "/images/blog/brookHeader.jpg"
-layout: post
+layout: page
 ---
 
 # What is effective tying?
