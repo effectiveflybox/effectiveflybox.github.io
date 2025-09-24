@@ -10,7 +10,6 @@ collections:
     output: true
 permalink: "/:categories/:title.html"
 url: https://effectiveflybox.github.io
-theme: jekyll-theme-dinky
 full_name: Greg Monigold
 first_name: Greg
 last_name: Monigold
