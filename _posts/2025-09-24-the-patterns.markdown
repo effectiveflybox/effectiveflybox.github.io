@@ -13,18 +13,18 @@ The Effective Fly Box is my collection of ten flies that I can successfully use 
 
 **Streamers**
 * Slumpbuster
-* Hen Bugger
+* A Bugger of sorts
 
 **Dries**
-* Sparkle Dun/Comparadun
-* Poly Caddis
+* Some kind of Dun
+* A Caddis related fly
 * Crackleback
 
 **Nymphs**
-* Hare's Ear
-* Pheasant Tail
-* Scud
+* Hare's Ear kind of nymph
+* Something made primarily with pheasant tail
+* Scud looking nymph
 
 **Terrestrials**
-* Beetle
+* Resembles a Beetle
 * Chubby Chernobyl
