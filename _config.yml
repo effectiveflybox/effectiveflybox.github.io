@@ -21,3 +21,4 @@ plugins:
 paginate: 5
 navbar-links:
   About Me: who-did-this
+  Author's Home: " https://www.monigold.com"
