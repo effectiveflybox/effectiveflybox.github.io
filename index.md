@@ -3,10 +3,8 @@ title: Home
 layout: default
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+---
+layout: home
+title: My website
+subtitle: This is where I will tell my friends way too much about me
+---
