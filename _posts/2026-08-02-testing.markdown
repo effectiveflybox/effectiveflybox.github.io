@@ -10,3 +10,9 @@ layout: post
 ---
 
 that's right, we're testing
+
+for every post- make sure it's visible, not draft or hidden
+subtitle, thumbnail-img
+
+theme notes @
+https://github.com/daattali/beautiful-jekyll/blob/master/_includes/header.html
