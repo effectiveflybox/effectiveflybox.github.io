@@ -22,7 +22,7 @@ twitter:
 github: 
 facebook: 
 linkined_url: 
-remote_theme: mmistakes/minimal-mistakes@4.28.0
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
 - jekyll-remote-theme
 show_downloads: false
