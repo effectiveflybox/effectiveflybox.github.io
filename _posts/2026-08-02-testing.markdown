@@ -4,6 +4,7 @@ date: 2026-08-02 10:02:00 -04:00
 tags:
 - testing
 subtitle: 'testing the subtitle '
+thumbnail-img: "\\assets\\img\\kernheader.png"
 layout: post
 ---
 
