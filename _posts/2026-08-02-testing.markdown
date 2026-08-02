@@ -1,6 +1,8 @@
 ---
 title: Testing
 date: 2026-08-02 10:02:00 -04:00
+tags:
+- testing
 layout: post
 ---
 
