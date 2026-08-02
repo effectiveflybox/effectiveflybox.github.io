@@ -22,7 +22,7 @@ twitter:
 github: 
 facebook: 
 linkined_url: 
-remote_theme: pages-themes/primer@v0.6.0
+remote_theme: chauff/cse-theme
 plugins:
 - jekyll-remote-theme
 show_downloads: false
