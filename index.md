@@ -1,7 +1,7 @@
 ---
 title: Home
 published: false
-layout: default
+layout: home
 ---
 
 Hello
