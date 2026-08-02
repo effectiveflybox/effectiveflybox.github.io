@@ -1,6 +1,7 @@
 ---
 title: Testing
 date: 2026-08-02 10:02:00 -04:00
+layout: post
 ---
 
 that's right, we're testing
