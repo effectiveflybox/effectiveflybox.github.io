@@ -5,6 +5,7 @@ tags:
 - testing
 subtitle: 'testing the subtitle '
 thumbnail-img: "/assets/img/kernHeader.jpg"
+author: Greg Monigold
 layout: post
 ---
 
