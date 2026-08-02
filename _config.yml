@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 permalink: "/:categories/:title.html"
-url: https://effectiveflybox.github.io
+url: https://ewww.effectiveflybox.com
 full_name: Greg Monigold
 first_name: Greg
 last_name: Monigold
@@ -27,4 +27,4 @@ linkined_url:
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
-show_downloads: 'false'
+show_downloads: false
