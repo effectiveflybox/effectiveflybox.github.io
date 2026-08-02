@@ -22,3 +22,4 @@ paginate: 5
 navbar-links:
   Who Did This?: who-did-this
   Author's Home: https://www.monigold.com
+exerpt_length: 50
