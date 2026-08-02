@@ -20,5 +20,5 @@ plugins:
 - jekyll-remote-theme
 paginate: 5
 navbar-links:
-  About Me: who-did-this
+  Who Did This?: who-did-this
   Author's Home: https://www.monigold.com
