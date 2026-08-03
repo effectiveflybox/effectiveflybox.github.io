@@ -1,6 +1,9 @@
 ---
 title: Effective Tying- Buying From Fly Shops
 date: 2026-08-03 17:52:00 -04:00
+tags:
+- effective
+layout: post
 ---
 
 If you can, go to a local fly shop to get your stuff.  You can get all of this stuff online for sure but go to the local store first anyway.  Here's why. Your online store doesn't offer local advice.  You can lay your hands on the tools and materials at a local shop before you lay down your credit card.  Online shops don't offer in person tying classes (which should be an annual appointment for you).  They also don't offer a place to go and bullshit with others about fishing and tying. 
