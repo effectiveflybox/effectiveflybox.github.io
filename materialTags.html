@@ -23,7 +23,7 @@ layout: page
         &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
     </h2>
     <div class="post-list">
-        {%- for post in site.tags[tag] -%}
+        {%- for post in site.tags.materials -%} 
             <div class="tag-entry">
                 <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
                 <div class="entry-date">
