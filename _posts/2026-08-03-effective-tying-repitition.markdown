@@ -1,5 +1,5 @@
 ---
-title: Effective Tying- Repitition
+title: Effective Tying- Repetition
 date: 2026-08-03 17:47:00 -04:00
 tags:
 - effective
