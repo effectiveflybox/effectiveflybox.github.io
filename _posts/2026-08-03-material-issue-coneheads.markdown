@@ -12,6 +12,6 @@ Cones are generally, and this is so confusing, sold as small | medium | large in
 
 Instead of buying these by weight, I'm really looking for something that looks proportionally correct for what I'm tying. This is because I can hide wraps of weight behind the cone and under bulkier body materials in the form of non lead wire.  
 
-Cones come in a myriad of colors, like beads I just buy something light and shiny and something dark (and less shiny).  Non lead wire comes only in lead color and gets hidden anyway.  No meaningful choice there yet.  I'm sure tying material companies are working on it. 
+Cones come in a myriad of colors, like beads I just buy something light and shiny and something dark (and less shiny, dare I say * tactical *).  Non lead wire comes only in lead color and gets hidden anyway.  No meaningful choice there yet.  I'm sure tying material companies are working on it. 
 
 [1] Also, at the time of this footnote tungsten is expensive and on the verge of becoming insanely expensive.  There's so many ways of weighting a streamer (including the line you use) you should be able to engineer your way out of this. 
