@@ -1,6 +1,9 @@
 ---
 title: Effective Tying- Quality Over Quantity
 date: 2026-08-03 17:41:00 -04:00
+tags:
+- effective
+layout: post
 ---
 
 And this I mean two ways.  First, tie fewer flies better.  If you do that you require fewer tools and a smaller variety of materials which leads to the second way I mean this.  Tie flies using better materials. 
