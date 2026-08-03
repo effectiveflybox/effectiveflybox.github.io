@@ -1,6 +1,7 @@
 ---
-title: Testing
+title: Testing and Notes
 date: 2026-08-02 10:02:00 -04:00
+published: false
 tags:
 - testing
 subtitle: 'testing the subtitle '
