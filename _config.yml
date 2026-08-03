@@ -22,7 +22,7 @@ paginate: 5
 navbar-links:
   Tying: tags#effective
   Patterns: tags#patterns
-  Materials: tags#materials
+  Materials: materialTags
   Tools: tags#tools
   Who Did This?: who-did-this
 excerpt_length: 50
