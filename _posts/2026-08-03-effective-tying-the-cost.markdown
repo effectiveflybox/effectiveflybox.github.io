@@ -1,5 +1,5 @@
 ---
-title: 'Effective Tying: The Cost'
+title: Effective Tying- The Cost
 date: 2026-08-03 17:37:00 -04:00
 tags:
 - effective
