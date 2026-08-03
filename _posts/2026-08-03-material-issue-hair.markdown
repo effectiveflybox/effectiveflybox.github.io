@@ -1,6 +1,9 @@
 ---
 title: Material Issue- "Hair"
 date: 2026-08-03 18:39:00 -04:00
+tags:
+- materials
+layout: post
 ---
 
 If you come back to this site in a year from now, this section may be different.  Today, right now, I find using synthetic hair to be easier to tie with than natural hair such as deer or elk hair.   
