@@ -1,5 +1,5 @@
 ---
-title: Effective Tying- Make A Place to Tie
+title: Effective Tying- Making A Place to Tie
 date: 2026-08-03 14:46:00 -04:00
 tags:
 - effective
