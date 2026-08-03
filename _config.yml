@@ -20,6 +20,7 @@ plugins:
 - jekyll-remote-theme
 paginate: 5
 navbar-links:
+  Begin: an-effective-trail
   Tying: tags#effective
   Patterns: tags#patterns
   Materials: materialTags
