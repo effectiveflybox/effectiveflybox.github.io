@@ -1,6 +1,9 @@
 ---
 title: 'Effective Tying: The Cost'
 date: 2026-08-03 17:37:00 -04:00
+tags:
+- effective
+layout: post
 ---
 
 I am proposing that you spend $350 for fly tying tools (most of that number spent on a tying vise) and following that up by dropping another $350 for materials.  Seven hundred bucks is a fair bit of money, but you've probably shit away as much if not more than this on other hobbies. 
