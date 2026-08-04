@@ -18,6 +18,6 @@ Really, any synthetic yarn will work.  Do a pre-screen by standing 20 feet away 
 * Semperfly Dry Fly Polyyarn 
 * Fulling Mill Ultra Dry Yarn 
 
-You can also use a brighter color of the EP Fibers or EP trigger fibers you're already building your wings witH.
+You can also use a brighter color of the EP Fibers or EP trigger fibers you're already building your wings with.
 
  
