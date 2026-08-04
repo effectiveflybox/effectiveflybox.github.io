@@ -8,6 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: ''
+  values:
+    footer-extra: disclaimer.html
 permalink: "/:categories/:title.html"
 url: https://www.effectiveflybox.com
 author: Greg Monigold
@@ -24,10 +30,3 @@ navbar-links:
   Tools: tags#tools
   Why: why
 excerpt_length: 50
-defaults:
-  -
-    scope:
-      path: ""
-      type: ""
-    values:
-      footer-extra: "disclaimer.html"
