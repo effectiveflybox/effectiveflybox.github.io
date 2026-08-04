@@ -24,3 +24,10 @@ navbar-links:
   Tools: tags#tools
   Why: why
 excerpt_length: 50
+defaults:
+  -
+    scope:
+      path: ""
+      type: ""
+    values:
+      footer-extra: "disclaimer.html"
