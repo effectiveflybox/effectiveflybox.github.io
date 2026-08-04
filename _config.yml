@@ -10,10 +10,15 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
-    type: ''
+    path: ""
+    type: "posts"
   values:
     footer-extra: disclaimer.html
+  - scope:
+    path: ""
+    type: "pages"
+  values:
+    footer-extra: disclaimer.html  
 permalink: "/:categories/:title.html"
 url: https://www.effectiveflybox.com
 author: Greg Monigold
