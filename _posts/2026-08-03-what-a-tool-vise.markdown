@@ -18,6 +18,6 @@ The Regal Medallion- Hook Jaw ($315) that I have isn't a true rotary vise, but i
 
 No matter what route you go, I suggest getting a c-clamp instead of a pedestal base.  I find it more stable, and it hasn't limited the number of places that I can tie in any way [^2]. A small piece of cardboard thrown in your tying box will prevent it from marring any tabletops. 
 
-[^1] Or how much to spend on a fly rod, or a fly line, or lunch.  OK, maybe spending discussions of any sort just brings out the opinions. 
+[^1]: Or how much to spend on a fly rod, or a fly line, or lunch.  OK, maybe spending discussions of any sort just brings out the opinions. 
 
-[^2] The c-clamp on my Renzetti vise adjust from .75-2.5" and the c-clamp on my Regal vise adjust from 0-2.25". 
+[^2]: The c-clamp on my Renzetti vise adjust from .75-2.5" and the c-clamp on my Regal vise adjust from 0-2.25". 
