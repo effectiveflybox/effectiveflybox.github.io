@@ -11,10 +11,7 @@ collections:
 permalink: "/:categories/:title.html"
 url: https://www.effectiveflybox.com
 author: Greg Monigold
-copyright_year: 2025
 google_analytics_code: 
-aboutme: 100% human generated, poorly worded content that should never be considered
-  to be in a final state.
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
 - jekyll-remote-theme
@@ -27,5 +24,3 @@ navbar-links:
   Tools: tags#tools
   Why: why
 excerpt_length: 50
-footer-extra: disclaimer.html
-after-content: disclaimer.html
