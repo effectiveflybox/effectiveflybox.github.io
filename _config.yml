@@ -25,5 +25,5 @@ navbar-links:
   Patterns: tags#patterns
   Materials: materialTags
   Tools: tags#tools
-  Why, just Why?: why-would-you-do-this
+  Why: why
 excerpt_length: 50
