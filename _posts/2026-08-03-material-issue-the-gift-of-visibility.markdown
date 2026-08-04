@@ -3,7 +3,6 @@ title: Material Issue- The Gift of Visibility
 date: 2026-08-03 18:46:00 -04:00
 tags:
 - materials
-footer-extra: disclaimer.html
 layout: post
 ---
 
