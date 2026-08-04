@@ -28,3 +28,4 @@ navbar-links:
   Why: why
 excerpt_length: 50
 footer-extra: disclaimer.html
+after-content: disclaimer.html
