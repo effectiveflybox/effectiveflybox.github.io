@@ -8,15 +8,20 @@ layout: post
 
 More and more I need something high-vis to help me see my flies on the water.   There are a lot of options here including having younger eyes than mine and not using anything.   
 
-Just a little amount of something bright is usually enough.  I like Hareline Para Post wing because it's easy to put a couple six strands into the wing of a fly.  It sheds water and takes floatant so it doesn't impact the float the wing material provides. 
+Just a little amount of something bright is usually enough.  I like Hareline Para Post wing because it's easy to put a couple six strands into the wing of a fly.
 
-Really, any synthetic yarn will work.  Do a pre-screen by standing 20 feet away from the tying materials at your fly shop and see what catches your eye.  Then close in and look for something that has a yarn/fiber composition.  Brand names include: 
+Really, any synthetic yarn should work.  Do a pre-screen by standing 20 feet away from the tying materials at your fly shop and see what catches your eye.  Then close in and look for something that has a yarn/fiber composition.  Brand names include: 
 
 * Fulling Mill Parapost Yarn 
 * Hareline Polypropylene Floating Yarn 
 * Semperfly Dry Fly Polyyarn 
 * Fulling Mill Ultra Dry Yarn 
 
-You can also use a brighter color of the EP Fibers or EP trigger fibers you're already building your wings with.
+You can also use a brighter color of the EP Fibers you're already building your wings with.  Some small foam strips in a bright color also work well I a lot of patterns.
+
+Whichever material you chose, make sure you can see it (obviously) and it sheds water or takes floatant.  One pack of any of these materials will last a long time.  You can also sneak them into the tails of hare's ear nymphs.
+
+
+
 
  
