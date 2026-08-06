@@ -14,4 +14,4 @@ As important, it forms a really nice, consistent wing on dry flies.  It's really
 
 No judgement though, I think using barbless flies is a more impactful change than using synthetic materials.  Still, I sure do put a lot of flies into trees above and beneath the waterline.  Maybe I should be more mindful of what is attached to those hooks. 
 
-[^1:] Hopefully, the 40% of the site is different every year.
+[^1]: Hopefully, the 40% of the site is different every year.
