@@ -1,6 +1,6 @@
 ---
 title: Material Issue- Wire and Flash
-date: 2026-08-03 18:41:00 -04:00
+date: 2026-08-06 18:41:00 -04:00
 tags:
 - materials
 layout: post
