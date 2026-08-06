@@ -1,5 +1,5 @@
 ---
-title: 'What a Tool: Vise'
+title: What a Tool- The Vise of your Life
 date: 2026-08-03 14:26:00 -04:00
 tags:
 - tools
