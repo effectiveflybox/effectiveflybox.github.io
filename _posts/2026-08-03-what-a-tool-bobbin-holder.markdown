@@ -10,6 +10,8 @@ Let's get the pedantic details out of the way.  Thread (and wire and other stuff
 
 You want something that has a tube with a *smoooooooove* interior that won't cut up the thread and has arms that can be easily adjusted to put more (or less) tension on the bobbin that it's holding. 
 
+![PXL_20260807_204840941.jpg](/uploads/PXL_20260807_204840941.jpg)
+
 I like to tie with Rite Bobbin holders ($30) but I don't think there's any overwhelming need to spend that much. No matter what I chose, I would stick with the 3" space between the bobbin and the tip of the tube. 
 
 Dr. Slick sells bobbin holders with glass lined ($11) and ceramic lined ($17) tubes in 3" sizes.  Loon Outdoors sells their Ergo All Purpose Bobbin for $20.  I have used the Loon product and it works just fine. 
