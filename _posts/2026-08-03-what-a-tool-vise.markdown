@@ -8,6 +8,8 @@ layout: post
 
 If you want to stir up a fly-fishing forum, ask how much someone should spend on a vise [^1].  On the high end, people will brag about their vise that cost more than a car payment.  On the other end of the spectrum folks will say that tying on anything other than a vise-grip clenched between your knees is for those who have more money than sense.   
 
+![PXL_20260807_205257166.jpg](/uploads/PXL_20260807_205257166.jpg)
+
 I don't know what to tell you about what the right number is.  You can probably look at your bank account balance and do the math to tell what it will be after a vise purchase and figure it out that way.   
 
 I have four recommendations.  Two based on actual use, and two based on extrapolation will see you spending $200-$375 for something that will last as long as you wish to tie flies. 
