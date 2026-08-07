@@ -1,5 +1,5 @@
 ---
-title: 'What a tool: Scissors'
+title: What a tool- Scissors
 date: 2026-08-03 14:23:00 -04:00
 tags:
 - tools
@@ -7,6 +7,8 @@ layout: post
 ---
 
 So far, the basic tools are "buy it once".  Not so scissors.  Consider scissors to be a consumable.  Depending on what you cut with them, expect to replace them every couple of years.  Choose your birthday as annual "replace the scissors day".  Give you something to look forward to. 
+
+![PXL_20260807_204741055.jpg](/uploads/PXL_20260807_204741055.jpg)
 
 You can spend a bunch on scissors if you want (and I have).  Good news, you can buy a good pair of Dr Slick 3.5" arrow scissors for $20 and you're set [1].  In one or two years, buy a new pair and push the old ones down the food chain to cut all of the stuff you shouldn't use your scissors on. 
 
