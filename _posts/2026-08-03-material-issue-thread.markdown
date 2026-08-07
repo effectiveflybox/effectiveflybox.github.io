@@ -3,7 +3,9 @@ title: Material Issue- Thread
 date: 2026-08-03 18:43:00 -04:00
 ---
 
- I like Veevus thread because even in small sizes I can't seem to break it very easily.  Having the thread break, especially at the end of tying a bug, is truly demoralizing.  Like your ice cream falling out of the cone.  Avoid it.  There are bunches of tying thread brands out there, so talk with your fly shop and see what the tiers there like to use.  
+There are bunches of tying thread brands out there, so talk with your fly shop and see what the tiers there like to use. I like Veevus thread because even in small sizes I can't seem to break it very easily.  Having the thread break, especially at the end of tying a bug, is truly demoralizing.  Like your ice cream falling out of the cone.  Avoid it.  
+
+![PXL_20260807_202644332.jpg](/uploads/PXL_20260807_202644332.jpg) 
 
 I use 12/0[^1] thread for most all of my trout fly tying.  I've used as small as 16/0 and as large as 10/0 and it all works just fine.  The thinner the thread (higher number before the "/0") the less bulk you'll add.  This is a good thing on smaller flies but not so good if you're using the thread to build the shape of the body.  It will still work, but it takes more thread wraps.   
 
