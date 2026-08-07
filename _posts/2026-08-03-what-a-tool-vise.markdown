@@ -22,4 +22,4 @@ No matter what route you go, I suggest getting a c-clamp instead of a pedestal b
 
 [^1]: Or how much to spend on a fly rod, or a fly line, or lunch.  OK, maybe spending discussions of any sort just brings out the opinions. 
 
-[^2]: The c-clamp on my Renzetti vise adjust from .75-2.5" and the c-clamp on my Regal vise adjust from 0-2.25". 
+[^2]: The c-clamp on my Renzetti vise adjusts from .75-2.5" and the c-clamp on my Regal vise adjusts from 0-2.25". 
