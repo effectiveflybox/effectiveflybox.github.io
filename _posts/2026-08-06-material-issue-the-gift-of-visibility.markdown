@@ -19,7 +19,7 @@ Really, any synthetic yarn should work.  Do a pre-screen by standing 20 feet awa
 * Semperfly Dry Fly Polyyarn 
 * Fulling Mill Ultra Dry Yarn 
 
-You can also use a brighter color of the EP Fibers you're already building your wings with.  Some small foam strips in a bright color also work well I a lot of patterns.
+You can also use a brighter color of the EP Fibers you're already building your wings with.  Some small foam strips in a bright color also work well in a lot of patterns.
 
 Whichever material you choose, make sure it is something you can see against the glare of water and that it sheds water or takes floatant.  One pack of any of these materials will last a long time.  You can also sneak them into the tails of hare's ear nymphs.
 
