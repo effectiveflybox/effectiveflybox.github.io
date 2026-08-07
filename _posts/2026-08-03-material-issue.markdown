@@ -8,7 +8,11 @@ layout: post
 
 I have been able to get away with using only two kinds of dubbing for the patterns in the Effective Fly Box.  One kind is sinky and spikey, the other is smooth and floaty. 
 
-What specific kind is that?  For me, sinky/spikey is Hare's Ear Plus and smooth/floaty is Super Fine.  Hare's Ear is mostly natural and Super Fine is purely synthetic.  There are a lot of other options, so go to your shop, look them all over and get anything you and the fish will like, one of each kind. 
+![PXL_20260807_203356427.jpg](/uploads/PXL_20260807_203356427.jpg)
+
+What specific kind of each is that?  For me, sinky/spikey is Hare's Ear Plus and smooth/floaty is Super Fine.  Hare's Ear is mostly natural and Super Fine is purely synthetic.  There are a lot of other options, so go to your shop, look them all over and get anything you and the fish will like, one of each kind. 
+
+![PXL_20260807_201802952.jpg](/uploads/PXL_20260807_201802952.jpg)
 
 For the Effective Patterns, I avoid dubbing that has a lot of flash/sparkle to it.  While Hare's Ear Plus **technically** has a little Antron in it, I'm going to use peacock herl if I want to add some shimmer.  There's lots of options along the sparkly spectrum, choose something you think your fish will go for.  
 
