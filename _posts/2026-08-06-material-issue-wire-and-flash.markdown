@@ -9,7 +9,9 @@ layout: post
 In the core materials, I am using wire to provide some "flash" to the nymphs and the one streamer it's used in.  Wire has its place.  It provides segmentation and contrasts with the natural materials that it's presented against.   
  
 It also provides some extra protection where its used.  In the Pheasant Tail nymph pattern it reinforces pheasant tail fibers (duh) which can be kind of fragile.  In the Slumpbuster streamer it attaches the squirrel fur "wing" to the hook adding subtle flash and acting as a fastener at the same time.    
- 
+
+![PXL_20260807_202456553.jpg](/uploads/PXL_20260807_202456553.jpg)
+
 When it's used on nymphs it also provides the appearance of some segmentation of the body.  And it's here where another material begins to become an alternative.  Flash material (specifically Krystal Flash) is a mylar, krinkly product that you can use in place of wire to segment and reinforce.  It adds flash and because its transparent it has the additional benefit of allowing the material under it to show through and influence the color of the body.   
  
 It won't do as good a job reinforcing the body as wire can do, though it won't do nothing in that regard...the material is pretty tough.  It makes up in flexibility though, because it's not as stiff as wire you can use it in other parts of a fly such as the tail to add flashy goodness.
