@@ -8,6 +8,8 @@ layout: post
 
 More and more I need something high-vis to help me see my flies on the water.   There are a lot of options here including having younger eyes than mine and not using anything.   
 
+![PXL_20260807_201700233.jpg](/uploads/PXL_20260807_201700233.jpg)
+
 Just a little amount of something bright is usually enough.  I like Hareline Para Post wing because it's easy to put a couple six strands into the wing of a fly.
 
 Really, any synthetic yarn should work.  Do a pre-screen by standing 20 feet away from the tying materials at your fly shop and see what catches your eye.  Then close in and look for something that has a yarn/fiber composition.  Brand names include: 
