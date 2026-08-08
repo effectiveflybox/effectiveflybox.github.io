@@ -26,31 +26,45 @@ Front to back to front.  We're going to start with the bead.  We will build a th
 ### Bead
 Put the bead on (little hole forward) and build up enough thread to keep that bead from slipping.  Don't go overboard, we will wrap a bunch of material in to keep it in place.
 
+![PXL_20260808_195804495.jpg](/uploads/PXL_20260808_195804495.jpg)
+
 ### Rib
 Take thread wraps back to one wrap past where the hook starts to bend down.  Tie in your wire.  Wrap the thread to the front and then come on back to the same point where the hook turns down.
+
+![PXL_20260808_200523534.jpg](/uploads/PXL_20260808_200523534.jpg)
 
 ### Pheasant tail- tail
 Get three or four Pheasant tail fibers (but never ever five), make their tips even as best you can and tie them in with three wraps of thread.  For larger nymphs make sure you are using fibers long enough to wrap most of the way up the hook.  Make those wraps one right on top of the other.  The tail should be about as long as the gap in the hook.  If it is too long you can gently pull the fibers forward.  If it is too short, either accept the flaw or retie.
 
+![PXL_20260808_201809733.jpg](/uploads/PXL_20260808_201809733.jpg)
+
 ### Pheasant tail- abdomen
-Gently lift up the fibers over the hook and run the thread to the front.  Stop one bead length behind the bead.  
+Gently lift up the fibers over the hook and run the thread to the front.  Stop one bead length behind the bead.
+
+![PXL_20260808_202017715.jpg](/uploads/PXL_20260808_202017715.jpg)  
 
 One of two things has happened.  Either you chose fibers that were too short and you are cursing my name or you have a delightfully naturally segmented abdomen.  Full disclosure- I used fibers that were two short and had to restart.
 
+![PXL_20260808_202228898.MP.jpg](/uploads/PXL_20260808_202228898.MP.jpg)
+
 ### Rib
-Wrap the wire up to the point you stopped with the Pheasant.  Either over the top away from you or underneath and towards you (counter wrap) probably doesn't make a difference.  
+Wrap the wire up to the point you stopped with the Pheasant.  Either over the top away from you or underneath and towards you (counter wrap) probably doesn't make a difference. Whichever way you swing, be careful not to capture the tail fibers under the wire.  You can push them up to keep them out of the way, they are in there pretty good now.
+
+![PXL_20260808_202613058.jpg](/uploads/PXL_20260808_202613058.jpg) 
 
 Helicopter the wire off, and use your tying scissors to clip the Pheasant.
 
 ### Peacock- thorax
 Tie in a couple of peacock heels where you stopped with the Pheasant tail and wire.  Wrap the thread to the bead.  Peacock can be a little slippery so I leave trimming it until the end.
 
-Now wrap the peacock herl and don't over pack it, but don't skimp.  Gotta' love specific directions.  
+![PXL_20260808_202857189.jpg](/uploads/PXL_20260808_202857189.jpg)
+
+Now wrap the peacock herl and don't over pack it, but don't skimp.  Gotta' love specific directions. You can check the next photo as an example.  Also consider the ratio you have right now.  Next fly, do you want to make the thorax a little bigger?  That adjustment is easy now that you understand the construction.  
 
 ### Finish
-
-
 Clip the excess with tying scissors and do a three turn whip finish being careful to lay the wraps next to the bead and not over the beautiful buggy thorax you created.
+
+![PXL_20260808_203321914.jpg](/uploads/PXL_20260808_203321914.jpg)
 
 The next one of these I tie, I am going to be more careful making the first wrap of the Pheasant tail for the abdomen.  I have kind of a thread butt on this guy.  Well, the fish this catches can discuss that with me if they take offense.
 
