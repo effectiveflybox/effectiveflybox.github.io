@@ -42,7 +42,13 @@ Wrap the wire up to the point you stopped with the Pheasant.  Either over the to
 Helicopter the wire off, and use your tying scissors to clip the Pheasant.
 
 ### Peacock- thorax
-Tie in a couple of peacock heels where you stopped with the Pheasant tail and wire.  
+Tie in a couple of peacock heels where you stopped with the Pheasant tail and wire.  Wrap the thread to the bead.  Peacock can be a little slippery so I leave trimming it until the end.
+
+Now wrap the peacock herl and don't over pack it, but don't skimp.  Gotta' love specific directions.  
+
+Clip the excess with tying scissors and do a three turn whip finish being careful to lay the wraps next to the bead and not over the beautiful buggy thorax you created.
+
+
 
 
 
