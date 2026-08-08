@@ -1,6 +1,6 @@
 ---
 title: Tied up- Pheasant Tail Nymph
-date: 2026-08-03 15:54:00 -04:00
+date: 2026-08-08 15:54:00 -04:00
 tags:
 - patterns
 Field name: 
