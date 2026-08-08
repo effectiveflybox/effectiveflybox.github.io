@@ -3,6 +3,7 @@ title: Tied up- Pheasant Tail Nymph
 date: 2026-08-03 15:54:00 -04:00
 tags:
 - patterns
+Field name: 
 layout: post
 ---
 
@@ -53,5 +54,5 @@ Clip the excess with tying scissors and do a three turn whip finish being carefu
 
 The next one of these I tie, I am going to be more careful making the first wrap of the Pheasant tail for the abdomen.  I have kind of a thread butt on this guy.  Well, the fish this catches can discuss that with me if they take offense.
 
-
+Tie these in a bunch of sizes, change up the bead type, color and/or size and  the ribbing material and/or color.  Even though you have two natural materials in their natural colors you can produce very different looking flies using those alternates.
 
