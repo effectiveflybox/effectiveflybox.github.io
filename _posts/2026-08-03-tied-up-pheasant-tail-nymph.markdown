@@ -46,9 +46,12 @@ Tie in a couple of peacock heels where you stopped with the Pheasant tail and wi
 
 Now wrap the peacock herl and don't over pack it, but don't skimp.  Gotta' love specific directions.  
 
+### Finish
+
+
 Clip the excess with tying scissors and do a three turn whip finish being careful to lay the wraps next to the bead and not over the beautiful buggy thorax you created.
 
-
+The next one of these I tie, I am going to be more careful making the first wrap of the Pheasant tail for the abdomen.  I have kind of a thread butt on this guy.  Well, the fish this catches can discuss that with me if they take offense.
 
 
 
