@@ -16,7 +16,7 @@ For this nymph, we will use:
 * As an alternate, use a medium or small glass bead if you aren't using the nymph as an anchor.
 * A couple strands of peacock herl.  For the smaller sizes, you can use only one.
 * Some small wire in any color that matches or compliments the bead.
-* Some Pheasant tail (it's in the name for chrissakes)
+* Some pheasant tail (it's in the name for chrissakes)
 
 ![PXL_20260808_193412168.jpg](/uploads/PXL_20260808_193412168.jpg)
 
@@ -34,7 +34,7 @@ Take thread wraps back to one wrap past where the hook starts to bend down.  Tie
 ![PXL_20260808_200523534.jpg](/uploads/PXL_20260808_200523534.jpg)
 
 ### Pheasant tail- tail
-Get three or four Pheasant tail fibers (but never ever five), make their tips even as best you can and tie them in with three wraps of thread.  For larger nymphs make sure you are using fibers long enough to wrap most of the way up the hook.  Make those wraps one right on top of the other.  The tail should be about as long as the gap in the hook.  If it is too long you can gently pull the fibers forward.  If it is too short, either accept the flaw or retie.
+Get three or four pheasant tail fibers (but never ever five), make their tips even as best you can and tie them in with three wraps of thread.  For larger nymphs make sure you are using fibers long enough to wrap most of the way up the hook.  Make those wraps one right on top of the other.  The tail should be about as long as the gap in the hook.  If it is too long you can gently pull the fibers forward.  If it is too short, either accept the flaw or retie.
 
 ![PXL_20260808_201809733.jpg](/uploads/PXL_20260808_201809733.jpg)
 
@@ -43,19 +43,19 @@ Gently lift up the fibers over the hook and run the thread to the front.  Stop o
 
 ![PXL_20260808_202017715.jpg](/uploads/PXL_20260808_202017715.jpg)  
 
-One of two things has happened.  Either you chose fibers that were too short and you are cursing my name or you have a delightfully naturally segmented abdomen.  Full disclosure- I used fibers that were two short and had to restart.
+One of two things has happened.  Either you chose fibers that were too short and you are cursing my name or you have a delightfully naturally segmented abdomen.  Full disclosure- I used fibers that were too short and had to restart.
 
 ![PXL_20260808_202228898.MP.jpg](/uploads/PXL_20260808_202228898.MP.jpg)
 
 ### Rib
-Wrap the wire up to the point you stopped with the Pheasant.  Either over the top away from you or underneath and towards you (counter wrap) probably doesn't make a difference. Whichever way you swing, be careful not to capture the tail fibers under the wire.  You can push them up to keep them out of the way, they are in there pretty good now.
+Wrap the wire up to the point you stopped with the pheasant.  Either over the top away from you or underneath and towards you (counter wrap) probably doesn't make a difference. Whichever way you swing, be careful not to capture the tail fibers under the wire.  You can push them up to keep them out of the way, they are in there pretty good now.
 
 ![PXL_20260808_202613058.jpg](/uploads/PXL_20260808_202613058.jpg) 
 
 Helicopter the wire off, and use your tying scissors to clip the Pheasant.
 
 ### Peacock- thorax
-Tie in a couple of peacock heels where you stopped with the Pheasant tail and wire.  Wrap the thread to the bead.  Peacock can be a little slippery so I leave trimming it until the end.
+Tie in a couple of peacock herls where you stopped with the pheasant tail and wire.  Wrap the thread to the bead.  Peacock can be a little slippery so I leave trimming it until the end.
 
 ![PXL_20260808_202857189.jpg](/uploads/PXL_20260808_202857189.jpg)
 
@@ -66,7 +66,7 @@ Clip the excess with tying scissors and do a three turn whip finish being carefu
 
 ![PXL_20260808_203321914.jpg](/uploads/PXL_20260808_203321914.jpg)
 
-The next one of these I tie, I am going to be more careful making the first wrap of the Pheasant tail for the abdomen.  I have kind of a thread butt on this guy.  Well, the fish this catches can discuss that with me if they take offense.
+The next one of these I tie, I am going to be more careful making the first wrap of the pheasant tail for the abdomen.  I have kind of a thread butt on this guy.  The fish this catches can discuss that with me if they take offense.
 
-Tie these in a bunch of sizes, change up the bead type, color and/or size and  the ribbing material and/or color.  Even though you have two natural materials in their natural colors you can produce very different looking flies using those alternates.
+Tie these in a bunch of sizes, change up the bead type, color and/or size and the ribbing material and/or color.  Even though you have two natural materials in their natural colors you can produce very different looking flies using those alternates.
 
