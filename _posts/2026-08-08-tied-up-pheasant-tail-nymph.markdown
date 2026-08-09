@@ -59,7 +59,7 @@ Tie in a couple of peacock herls where you stopped with the pheasant tail and wi
 
 ![PXL_20260808_202857189.jpg](/uploads/PXL_20260808_202857189.jpg)
 
-Now wrap the peacock herl and don't over pack it, but don't skimp.  Gotta' love specific directions. You can check the next photo as an example.  Also consider the ratio you have right now.  Next fly, do you want to make the thorax a little bigger?  That adjustment is easy now that you understand the construction.  
+Now wrap the peacock herl forward.  Don't over pack it, but don't skimp.  Gotta' love specific directions. You can check the next photo as an example.  Also consider the ratio you have right now.  Next fly, do you want to make the thorax a little bigger?  That adjustment is easy now that you understand the construction.  
 
 ### Finish
 Clip the excess with tying scissors and do a three turn whip finish being careful to lay the wraps next to the bead and not over the beautiful buggy thorax you created.
