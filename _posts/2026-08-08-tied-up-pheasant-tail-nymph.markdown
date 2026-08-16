@@ -11,7 +11,7 @@ If you choose the right materials, you don't need very many to tie up fly that c
 
 ## Mise en place
 For this nymph, we will use:
-* A size 14 or 18 hook.  Tie bigger if you wanna' tie smaller if you dare.
+* A size 14 or 18 hook.  Tie 'em bigger if you wanna'. Tie 'em smaller if you dare.
 * A size 2.5mm bead for a #14 or a 2mm bead for a #18 works for me.  Move up or down as you like.
 * As an alternate, use a medium or small glass bead if you aren't using the nymph as an anchor.
 * A couple strands of peacock herl.  For the smaller sizes, you can use only one.
@@ -70,7 +70,7 @@ The next one of these I tie, I am going to be more careful making the first wrap
 
 Tie these in a bunch of sizes, change up the bead type, color and/or size and the ribbing material and/or color.  Even though you have two natural materials in their natural colors you can produce very different looking flies using those alternates.
 
-** References and Notes
+## References and Notes
 *Here's how some people who know what they're doing tie these.*
 * [Tim Flagler/Tightline Video
 American Pheasant Tail Nymph](https://www.youtube.com/watch?v=oRMWxob305o)
