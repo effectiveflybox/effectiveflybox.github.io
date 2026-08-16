@@ -21,7 +21,7 @@ defaults:
     footer-extra: disclaimer.html
 permalink: "/:categories/:title.html"
 url: https://www.effectiveflybox.com
-author: Greg Monigold
+author: 
 google_analytics_code: 
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
