@@ -20,4 +20,11 @@ Buy one to start.  Down the road, true luxury is having three or four already th
 
 [^1]: The manufacturers call their bobbin holders "bobbins" and once you've bought one, you can too. 
 
-[^2]: [https://youtu.be/0CjSoms9Gx4?si=XDgDUDfwBunPlsTz](https://youtu.be/0CjSoms9Gx4?si=XDgDUDfwBunPlsTz) 
+## References
+*What people who know what they are talking about say*
+* [Fly Fish Food- What are the FIRST THREE fly tying tools you should buy?](https://www.youtube.com/watchv=0CjSoms9Gx4)
+* [Savage Flies- 
+All About Bobbins! (Fly Tying Tool Primer)](https://www.youtube.com/watch?v=i-r0OkI3SsY)
+* [
+Choosing the Right Bobbin with Kelly Galloup](https://www.youtube.com/watch?v=ON3sl2mzmZI&t=344s)
+* [Charlie Craven Explains Fly Tying Bobbins](https://www.youtube.com/watch?v=Gb6RvTManeY)
