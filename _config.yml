@@ -35,3 +35,5 @@ navbar-links:
   Tools: tags#tools
   Why: why
 excerpt_length: 50
+social-network-links:
+- 'instagram: effectiveflybox'
