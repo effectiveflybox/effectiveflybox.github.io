@@ -70,3 +70,13 @@ The next one of these I tie, I am going to be more careful making the first wrap
 
 Tie these in a bunch of sizes, change up the bead type, color and/or size and the ribbing material and/or color.  Even though you have two natural materials in their natural colors you can produce very different looking flies using those alternates.
 
+** References and Notes
+* Here's how some people who know what they're doing tie these.*
+* [Tim Flagler/Tightline Video
+American Pheasant Tail Nymph](https://www.youtube.com/watch?v=oRMWxob305o)
+* [Pheasant Tail by Charlie Craven](https://www.youtube.com/watch?v=S5wJd-yMMGQ&t=249s)
+* [Cheech/Fly Fish Food
+PHEASANT TAIL NYMPH Fly Tying Tutorial - Blacked Out!](https://www.youtube.com/watch?v=eGRFeyB0ZRg)
+* [Savage Flies
+American Pheasant Tail - Trout Fly Tying for Beginners](https://www.youtube.com/watch?v=_oo8guU0vYA)
+
