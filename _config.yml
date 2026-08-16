@@ -31,9 +31,22 @@ navbar-links:
   Begin: a-path
   Tying: tags#effective
   Patterns: tags#patterns
-  Materials: materialTagsGreg Monigold  •  2026
+  Materials: tags#materials
   Tools: tags#tools
   Why: why
 excerpt_length: 50
 social-network-links:
-- 'instagram: effectiveflybox'
+  instagram: effectiveflybox
+
+# Page colors
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
