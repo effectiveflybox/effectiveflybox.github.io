@@ -37,8 +37,6 @@ navbar-links:
 excerpt_length: 50
 social-network-links:
   instagram: effectiveflybox
-
-# Page colors
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
