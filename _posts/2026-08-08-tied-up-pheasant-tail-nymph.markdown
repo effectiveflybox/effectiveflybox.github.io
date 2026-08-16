@@ -64,9 +64,9 @@ Now wrap the peacock herl forward.  Don't over pack it, but don't skimp.  Gotta'
 ### Finish
 Clip the excess with tying scissors and do a three turn whip finish being careful to lay the wraps next to the bead and not over the beautiful buggy thorax you created.
 
-![PXL_20260808_203321914.jpg](/uploads/PXL_20260808_203321914.jpg)
+![PXL_20260816_131142173.jpg](/uploads/PXL_20260816_131142173.jpg)
 
-The next one of these I tie, I am going to be more careful making the first wrap of the pheasant tail for the abdomen.  I have kind of a thread butt on this guy.  The fish this catches can discuss that with me if they take offense.
+The next one of these I tie, I am going to be more careful making the first wrap of the pheasant tail for the abdomen.  I have kind of a thread butt going on with this guy.  The fish this catches can discuss that with me if they take offense.
 
 Tie these in a bunch of sizes, change up the bead type, color and/or size and the ribbing material and/or color.  Even though you have two natural materials in their natural colors you can produce very different looking flies using those alternates.
 
