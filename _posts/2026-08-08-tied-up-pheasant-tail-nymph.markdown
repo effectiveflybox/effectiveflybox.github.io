@@ -79,4 +79,7 @@ American Pheasant Tail Nymph](https://www.youtube.com/watch?v=oRMWxob305o)
 PHEASANT TAIL NYMPH Fly Tying Tutorial - Blacked Out!](https://www.youtube.com/watch?v=eGRFeyB0ZRg)
 * [Savage Flies
 American Pheasant Tail - Trout Fly Tying for Beginners](https://www.youtube.com/watch?v=_oo8guU0vYA)
+* [Tying the Pheasant Tail with Kelly Galloup](https://www.youtube.com/watch?v=abaHYdWssvI)
+* [
+Classic Pheasant Tail Nymph by Mauro Mazzo | Fly Recipe](https://www.youtube.com/watch?v=r4bGjhA7B0s&list=PLJQsrK_W2jnh5hd19FQDKw6iQUmVgmWUq&index=14)
 
