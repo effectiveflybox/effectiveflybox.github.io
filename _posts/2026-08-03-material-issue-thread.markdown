@@ -15,5 +15,5 @@ As I mentioned in What a Tool- Bobbin (Holder), having each color of thread alre
 
 [^1]: J Stockard has a great resource here: Fly Tying Thread Comparison Guide + Free Downloadable Chart  
 
-## References and Notes 
-[Understanding Fly Tying Thread with Charlie Craven ](https://youtu.be/VZoplLy6A1A?is=ptJnyxZhT3Zisy1N)
+## References and Notes
+* [Understanding Fly Tying Thread with Charlie Craven ](https://youtu.be/VZoplLy6A1A?is=ptJnyxZhT3Zisy1N)
