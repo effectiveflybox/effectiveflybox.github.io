@@ -1,6 +1,6 @@
 ---
 title: Material Issue- Thread
-date: 2026-08-03 18:43:00 -04:00
+date: 2026-08-19 18:43:00 -04:00
 ---
 
 There are bunches of tying thread brands out there, so talk with your fly shop and see what the tiers there like to use. I like Veevus thread because even in small sizes I can't seem to break it very easily.  Having the thread break, especially at the end of tying a bug, is truly demoralizing.  Like your ice cream falling out of the cone.  Avoid it.  
