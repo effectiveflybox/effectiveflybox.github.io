@@ -13,7 +13,7 @@ The #/0 measuring of thread can usually get you in the right size ballpark betwe
 
 As I mentioned in What a Tool- Bobbin (Holder), having each color of thread already spooled up is, as they say in the old country, baller.  I usually have a light, mid and dark color of thread ready to go.  You can get away with less, far less.  None of the flies in the effective fly box really show the thread color so you can get away with white or tan, probably even black as your only thread color. 
 
-[^1]: J Stockard has a great resource here: Fly Tying Thread Comparison Guide + Free Downloadable Chart  
+[^1]: J Stockard has a great resource here: [Fly Tying Thread Comparison Guide + Free Downloadable Chart](https://cdn.shopify.com/s/files/1/0639/3377/6101/files/JSFF_Thread_Comparison_Chart_July_2025.pdf)
 
 ## References and Notes
 ** Information from people who know what they're talking about **
