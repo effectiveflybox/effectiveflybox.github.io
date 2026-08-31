@@ -50,7 +50,6 @@ One of two things has happened.  Either you chose fibers that were too short and
 ### Rib
 Wrap the wire up to the point you stopped with the pheasant.  Either over the top away from you or underneath and towards you (counter wrap) probably doesn't make a difference. Whichever way you swing, be careful not to capture the tail fibers under the wire.  You can push them up to keep them out of the way, they are in there pretty good now.
 
-
 ![PXL_20260808_202613058.jpg](/uploads/PXL_20260808_202613058.jpg) 
 
 Helicopter the wire off, and use your tying scissors to clip the Pheasant.
