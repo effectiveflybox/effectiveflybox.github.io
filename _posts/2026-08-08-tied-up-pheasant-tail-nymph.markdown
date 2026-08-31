@@ -45,10 +45,11 @@ Gently lift up the fibers over the hook and run the thread to the front.  Stop o
 
 One of two things has happened.  Either you chose fibers that were too short and you are cursing my name or you have a delightfully naturally segmented abdomen.  Full disclosure- I used fibers that were too short and had to restart.
 
-![PXL_20260808_202228898.MP.jpg](/uploads/PXL_20260808_202228898.MP.jpg)
+![PXL_20260808_202228898.jpg](/uploads/PXL_20260808_202228898.jpg)
 
 ### Rib
 Wrap the wire up to the point you stopped with the pheasant.  Either over the top away from you or underneath and towards you (counter wrap) probably doesn't make a difference. Whichever way you swing, be careful not to capture the tail fibers under the wire.  You can push them up to keep them out of the way, they are in there pretty good now.
+
 
 ![PXL_20260808_202613058.jpg](/uploads/PXL_20260808_202613058.jpg) 
 
