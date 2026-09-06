@@ -5,7 +5,7 @@ tags:
 - patterns
 ---
 
-If I got to start fly tying all over again, I think this is the first pattern I would start with.  In all its forms, the Hare's Ear Nymph catches fish.  And there are a lot of forms of this fly.  The version this step-by-step will have you tie skips a lot of nymph-y elements, but it can serve as the basis for more sophisticated versions you can tie without (or with) having to stray from the Effective Materials List.  Or you can just keep tying this stripped-down model and spend the time you save finding fish.
+If I had the opportunity to start fly tying all over again, I think this is the first pattern I would start with.  In all its forms, the Hare's Ear Nymph catches fish.  And there are a lot of forms of this fly.  The version this step-by-step will have you tie skips a lot of nymph-y elements, but it can serve as the basis for more sophisticated versions you can tie without (or with) having to stray from the Effective Materials List.  Or you can just keep tying this stripped-down model and spend the time you save finding fish.
 
 ## Mise en place
 For this buggy little tie, we will use:
