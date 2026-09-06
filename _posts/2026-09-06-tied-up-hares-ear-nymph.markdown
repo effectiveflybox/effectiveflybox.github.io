@@ -38,7 +38,7 @@ Bring that thread back to the place where you were before you tied in the rib.  
 
 ![PXL_20260905_175957039web.jpg](/uploads/PXL_20260905_175957039web.jpg)
 
-Now continue that process, touch dubbing the thread with spiky hairy goodness and building an ever so slightly tapered body up to about a virtual bead behind the actual bead you've got on there.
+Now continue that process, touch dubbing the thread with minute amounts of spiky hairy goodness building an ever so slightly tapered body up to about a virtual bead behind the actual bead you've got on there.
 
 ![PXL_20260905_180136347web.jpg](/uploads/PXL_20260905_180136347web.jpg)
 
@@ -59,7 +59,7 @@ Clip the excess rib and whip finish tight to the bead.  Deploy the tooth brush a
 
 ![PXL_20260905_181455861web.jpg](/uploads/PXL_20260905_181455861web.jpg)
 
-You can see, just a couple of materials (dub and flash) can produce something that will fool some fish for you.  Try some different sizes and weights.  Next time, I'll be more uniform in my body taper, but these will do the job in the meantime.
+You can see, just a couple of materials (dub and flash) can produce something that will fool some fish for you.  Try some different sizes and weights.  Next time, I'll be more uniform in my body taper and careful in my whip finish, but these will do the job in the meantime.
 
 
 
