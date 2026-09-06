@@ -5,7 +5,7 @@ tags:
 - patterns
 ---
 
-If I had the opportunity to start fly tying all over again, I think this is the first pattern I would start with.  In all its forms, the Hare's Ear Nymph catches fish.  And there are a lot of forms of this fly.  The version this step-by-step will have you tie skips a lot of nymph-y elements, but it can serve as the basis for more sophisticated versions you can tie without (or with) having to stray from the Effective Materials List.  Or you can just keep tying this stripped-down model and spend the time you save finding fish.
+If I had the opportunity to start fly tying all over again, I think this is the first pattern I would start with.  In all its forms, the Hare's Ear Nymph catches fish and there are a lot of forms of this fly.  The version this step-by-step will have you tie skips a lot of nymph-y elements, but it can serve as the basis for more sophisticated versions you can tie without (or with) having to stray from the Effective Materials List.  Or you can just keep tying this stripped-down model and spend the time you save putting them in front of fish.
 
 ## Mise en place
 For this buggy little tie, we will use:
@@ -13,7 +13,7 @@ For this buggy little tie, we will use:
 * A size 2.5mm bead for a #14 or a 2mm bead for a #18 works for me.  They can be heavier or lighter, decide how fast and far you need to get down.
 * If you want to tie the nymph to an anchor, use a medium or small glass bead it will give you some flash without weight.
 * Some spiky, buggy dubbing.  I'll use Hare's Ear Plus here but don't feel constrained by the pattern name.
-* For each, a strand of something flashy.  I like to use Pearl Krystal Flash but there are lots of choices, none of them wrong.
+* For each, a strand of something flashy.  I like to use Pearl Krystal Flash (which would also make a great stripper name) but there are lots of choices, none of them wrong.
 
 ![PXL_20260903_151356252Web.jpg](/uploads/PXL_20260903_151356252Web.jpg)
 
