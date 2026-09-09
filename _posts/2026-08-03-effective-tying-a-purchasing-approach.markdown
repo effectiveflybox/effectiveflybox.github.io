@@ -1,6 +1,8 @@
 ---
 title: Effective Tying- A Purchasing Approach
 date: 2026-08-03 14:33:00 -04:00
+tags:
+- effective
 layout: post
 ---
 
