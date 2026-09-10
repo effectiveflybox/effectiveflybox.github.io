@@ -11,33 +11,34 @@ But if the fish aren't satisfied or if you are tired of tying the basic pattern 
 
 # Color
 The easiest change to make is color.  Tie them up in dark, mid and light.
+
 ![PXL_20260909_170223694werb.jpg](/uploads/PXL_20260909_170223694werb.jpg)
-Natural, olive and black.
+*Natural, olive and black.*
 
 # Tails
 There are a couple three materials you can use to put tails on your nymphs.
 
 ![PXL_20260909_170423169web.jpg](/uploads/PXL_20260909_170423169web.jpg)
-From left to right- hen hackle, indicator material or pheasant tail.
+*From left to right- hen hackle, indicator material or pheasant tail.*
 
 # Rib
 Small ultra wire works as well as krystal flash.
 
 ![PXL_20260909_170527589web.jpg](/uploads/PXL_20260909_170527589web.jpg)
-
-Black and gold wire on the left, krystal flash on the right.
+*Black and gold wire on the left, krystal flash on the right.*
 
 # Thorax
 Add a thorax detail by using peacock herl, a contrasting color of dubbing or use pheasant tail to add a wing case.
 
 ![PXL_20260909_170333209web.jpg](/uploads/PXL_20260909_170333209web.jpg)
-Dub, herl and wing case respectively.
+*Dub, herl and wing case respectively.*
 
 # Hackle
 Level up by using hen hackle to give it an even buggier look.
-![PXL_20260909_170606564web.jpg](/uploads/PXL_20260909_170606564web.jpg)
-Mit and mit-out
 
-My statistics are a little rusty, but my HP 12C tells me there's about 800 variations you can tie here.  Go nuts (yarrr).
+![PXL_20260909_170606564web.jpg](/uploads/PXL_20260909_170606564web.jpg)
+*Mit and mit-out*
+
+My statistics are a little rusty, but my HP 12C tells me there's about 800 combinations you can tie here just with the material you've got.  Go nuts (yarrr).
 
 
