@@ -31,7 +31,7 @@ Small ultra wire works as well as krystal flash.
 Add a thorax detail by using peacock herl, a contrasting color of dubbing or use pheasant tail to add a wing case.
 
 ![PXL_20260909_170333209web.jpg](/uploads/PXL_20260909_170333209web.jpg)
-*Dub, herl and wing case respectively.*
+*Dub, herl and wing case respectively.  What a crap photo*
 
 # Hackle
 Level up by using hen hackle to give it an even buggier look.
