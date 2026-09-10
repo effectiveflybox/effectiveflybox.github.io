@@ -9,7 +9,7 @@ And you will, no doubt, find some fish for whom that's good enough.
 
 But if the fish aren't satisfied or if you are tired of tying the basic pattern what else can you do without buying more materials?
 
-#Color
+# Color
 The easiest change to make is color.  Tie them up in dark, mid and light.
 ![PXL_20260909_170223694werb.jpg](/uploads/PXL_20260909_170223694werb.jpg)
 Natural, olive and black.
