@@ -27,3 +27,17 @@ Small ultra wire works as well as krystal flash.
 
 Black and gold wire on the left, krystal flash on the right.
 
+# Thorax
+Add a thorax detail by using peacock herl, a contrasting color of dubbing or use pheasant tail to add a wing case.
+
+![PXL_20260909_170333209web.jpg](/uploads/PXL_20260909_170333209web.jpg)
+Dub, herl and wing case respectively.
+
+# Hackle
+Level up by using hen hackle to give it an even buggier look.
+![PXL_20260909_170606564web.jpg](/uploads/PXL_20260909_170606564web.jpg)
+Mit and mit-out
+
+My statistics are a little rusty, but my HP 12C tells me there's about 800 variations you can tie here.  Go nuts (yarrr).
+
+
