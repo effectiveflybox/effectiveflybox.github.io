@@ -1,5 +1,5 @@
 ---
-title: Tied up- A slimmed down Pheasant Tail Nymph
+title: Tied up- Slimmed Down Pheasant Tail Nymph
 date: 2026-08-08 15:54:00 -04:00
 tags:
 - patterns
