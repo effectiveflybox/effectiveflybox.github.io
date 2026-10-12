@@ -1,5 +1,5 @@
 ---
-title: Tied up- A Stupid Sexy Hare's Ear Nymph
+title: Tied up- Stupid Sexy Hare's Ear Nymph
 date: 2026-09-06 10:06:00 -04:00
 tags:
 - patterns
