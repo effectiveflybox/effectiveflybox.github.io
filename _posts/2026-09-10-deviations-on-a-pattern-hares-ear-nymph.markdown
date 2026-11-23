@@ -1,5 +1,5 @@
 ---
-title: Deviations on a Pattern- Hare's Ear Nymph
+title: Deviations from a Pattern- Hare's Ear Nymph
 date: 2026-09-10 17:02:00 -04:00
 ---
 
