@@ -13,7 +13,7 @@ Web sites are great and all, I think they will catch on eventually.  Not so good
 If you can find a fly shop, fly fishing club, local prison or any other organization that has a fly-tying class that you can take without having to buy materials and tools do it.  In fact, do it as many times as they will let you.  Once you've determined whether this is something you're going to want to do or not then come back.  I'll probably be here.
 
 ** Number Two **
-Decide if this is an approach you agree with and that this is a resource worth using.  These posts are more philosophy than how tie.
+Decide if this is an approach you agree with and that this is a resource worth using.  These posts are more about philosophy than how tie.
 
 ** Three A **
 Time to spend some money.  You're going to need to buy the tools which (more or less) you'll use to tie flies first through last.  The list is here:
@@ -42,7 +42,7 @@ Tie like your life depended on it.  Once you've tied up a bunch of the starter p
 - Crackleback
 
 ** Fish, repeatedly **
-At any point here, you'll have a nice little selection of flies to try out on fish near you.  Go out, put a few into the trees and tie some up to replace what's lost.  See if your decisions about color and size are right.  If you're not catching fish, definitely blame the flies.
+At any point here, you'll have a nice little selection of flies to try out on fish near you.  Go out, put a few into the trees and tie some up to replace what's lost.  If you're not catching fish, definitely blame the flies.  See if your decisions about color and size are right.  Leverage repetition to get better at tying.
 
 ** Six **
 Still with me?  Tie these patterns.  These aren't the most complicated flies you can tie, but they are the most complicated flies you'll tie for this box.
@@ -51,9 +51,9 @@ Still with me?  Tie these patterns.  These aren't the most complicated flies you
 - Wooly Bugger
 
 ** Seven **
-Improvise.  Look through the posts tagged "materials" and find the "Pieces of Flair" posts.  Use these to add new materials to the existing patterns.  Look through the posts tagged "patterns" and find the bonus patterns you can tie with the materials you already have.
+Improvise.  Look through the posts tagged "materials" and find the "Deviations on a..." posts.  Use these to add new materials to the existing patterns.  Look through the posts tagged "patterns" and find the bonus patterns you can tie with the materials you already have.
 
 ** Eight **
-What are you still doing here?  Fish more or find something else to tie.  It's a big world out there.
+What are you still doing here?  Look for the posts tagged "materials" and titled "Pieces of flair" to get some ideas about adding materials outside the effective box to the patterns.  Better yet, get out and fish more.  It's a big world out there.
 
 
