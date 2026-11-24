@@ -1,6 +1,7 @@
 ---
 title: An Effective Trail
 date: 2026-08-03 16:07:00 -04:00
+published: false
 layout: page
 ---
 
