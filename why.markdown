@@ -1,5 +1,5 @@
 ---
-title: Why Would Someone Do This?
+title: Why?
 date: 2026-08-03 18:50:00 -04:00
 ---
 
